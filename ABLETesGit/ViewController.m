@@ -26,6 +26,7 @@
 -(void)stre{
     NSLog(@"12233434566777888");
     NSLog(@"223434");
+    NSLog(@"22333344");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];

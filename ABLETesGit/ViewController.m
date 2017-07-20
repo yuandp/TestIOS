@@ -22,9 +22,9 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
--(void)stre
-{
-    NSLog(@"=======");
+
+-(void)stre{
+    NSLog(@"12233434566777888");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];

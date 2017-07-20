@@ -24,7 +24,7 @@
 
 -(void)stre
 {
-    
+    NSLog(@"=======");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
